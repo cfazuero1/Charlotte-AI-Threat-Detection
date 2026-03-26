@@ -111,7 +111,8 @@ The platform also generates a structured summary describing the sequence of even
 
 This functionality effectively replicates Tier 1 and Tier 2 SOC analysis by transforming raw telemetry into actionable intelligence.
 
-<img width="1919" height="1072" alt="charlotte3" src="https://github.com/user-attachments/assets/e700a9a6-7069-4f64-9c24-06d54b8cac42" />
+<img width="1919" height="905" alt="charlotte3" src="https://github.com/user-attachments/assets/074a028a-68db-4a63-b9de-032e38a4ec03" />
+
 
 
 5\. Workflow Automation and Response
