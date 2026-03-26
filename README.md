@@ -1,5 +1,6 @@
 # Charlotte AI Threat Detection
 =========================================================
+In this lab, I leveraged Charlotte AI within CrowdStrike Falcon to enhance threat detection and analysis of suspicious command-line activity involving the download of the Sliver framework. Charlotte AI automatically analysed the telemetry, provided contextual insight into the behaviour, and mapped the activity to relevant MITRE ATT&CK techniques, significantly reducing manual triage effort. Building on this, I implemented an automated response using Fusion SOAR, creating a workflow that triggers on specific command-line indicators and sends alert notifications. This demonstrates an end-to-end detection and response pipeline, combining AI-driven analysis with SOAR-based automation to improve efficiency and response time in a SOC environment.
 
 1\. Environment and Asset Context
 ---------------------------------
