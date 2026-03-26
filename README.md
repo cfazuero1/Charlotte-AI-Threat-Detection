@@ -38,6 +38,9 @@ Although Sliver is a legitimate tool used by security professionals, its presenc
 This behaviour aligns with the MITRE ATT&CK technique:
 
 *   **T1105 – Ingress Tool Transfer**
+
+<img width="1919" height="1072" alt="charlotte2" src="https://github.com/user-attachments/assets/def3b79c-82e6-4dd3-9e44-870d66c74d45" />
+
     
 
 3\. Detection by Endpoint Protection Platform
@@ -67,7 +70,8 @@ This stage demonstrates the platform’s ability to:
 *   Identify suspicious outbound activity
     
 *   Correlate events across multiple processes
-    
+
+<img width="1919" height="1072" alt="charlotte1" src="https://github.com/user-attachments/assets/945b0a3d-cae7-4f2f-8490-edbe16513ffe" />
 
 4\. Automated Analysis Using Charlotte AI
 -----------------------------------------
@@ -107,6 +111,9 @@ The platform also generates a structured summary describing the sequence of even
 
 This functionality effectively replicates Tier 1 and Tier 2 SOC analysis by transforming raw telemetry into actionable intelligence.
 
+<img width="1919" height="1072" alt="charlotte3" src="https://github.com/user-attachments/assets/e700a9a6-7069-4f64-9c24-06d54b8cac42" />
+
+
 5\. Workflow Automation and Response
 ------------------------------------
 
@@ -125,25 +132,11 @@ When the condition is satisfied, the workflow automatically initiates the respon
 
 It is noted that email delivery is restricted to approved organisational domains, requiring configuration adjustments for production use.
 
-6\. End-to-End Detection and Response Flow
-------------------------------------------
+<img width="1919" height="1079" alt="charlotte4" src="https://github.com/user-attachments/assets/aad80c44-71b1-4334-bb5c-49d411a79cdf" />
 
-The complete sequence of events in the lab is as follows:
 
-1.  A user executes a command to download and install the Sliver framework using curl and wget.
     
-2.  The endpoint protection platform detects the activity and generates high-severity alerts.
-    
-3.  Detection telemetry, including command-line arguments and process lineage, is captured and correlated.
-    
-4.  Charlotte AI performs automated analysis, enriching the detection with context, classification, and risk assessment.
-    
-5.  The Fusion Workflow evaluates the detection against predefined conditions.
-    
-6.  Upon a match, the workflow triggers an automated email notification containing incident details.
-    
-
-7\. Key Outcomes
+6\. Key Outcomes
 ----------------
 
 This lab demonstrates several critical security capabilities:
