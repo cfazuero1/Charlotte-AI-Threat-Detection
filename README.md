@@ -17,6 +17,9 @@ The asset is identified with:
 
 This endpoint serves as the target system for simulating adversary behaviour and validating detection and response workflows.
 
+<img width="1919" height="1072" alt="charlotte0" src="https://github.com/user-attachments/assets/8be09314-0cd9-49fc-a342-f6d8f128f067" />
+
+
 2\. Execution of Suspicious Command-Line Activity
 -------------------------------------------------
 
