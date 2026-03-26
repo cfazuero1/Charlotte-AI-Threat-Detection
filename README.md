@@ -22,11 +22,11 @@ This endpoint serves as the target system for simulating adversary behaviour and
 
 The test scenario begins with the execution of command-line instructions designed to simulate adversary behaviour:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   curl https://sliver.sh/install   `
+`   curl https://sliver.sh/install   `
 
 Additional activity includes:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   wget https://github.com/BishopFox/sliver/releases/...   `
+`   wget https://github.com/BishopFox/sliver/releases/...   `
 
 These commands initiate outbound connections to download components of the **Sliver framework**, an open-source adversary emulation and red teaming tool.
 
