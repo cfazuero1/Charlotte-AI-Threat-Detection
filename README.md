@@ -1,4 +1,4 @@
-# Charlotte-AI-Threat-Detection
+# Charlotte AI Threat Detection
 =========================================================
 
 1\. Environment and Asset Context
