@@ -1,6 +1,4 @@
 # Charlotte-AI-Threat-Detection
-
-Charlotte AI Threat Detection Lab – Technical Walkthrough
 =========================================================
 
 1\. Environment and Asset Context
